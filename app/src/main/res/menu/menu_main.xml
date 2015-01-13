@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_classifieds"
+        android:title="Classifieds"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/action_send"
+        android:title="Send Message"
+        android:orderInCategory="100"/>
+
+</menu> 
